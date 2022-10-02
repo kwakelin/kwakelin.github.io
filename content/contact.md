@@ -1,6 +1,5 @@
 ---
 title: Contact
-featured_image: '/images/Headers/forest_standing_stone05_PRINT copy.jpg'
 description: Talk to me!
 menu:
   main:

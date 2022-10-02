@@ -6,7 +6,6 @@ type: page
 menu:
   main:
     weight: 1
-featured_image: '/images/Headers/forest_standing_stone05_PRINT copy.jpg'
 resources: 
 - src: 'images/ink/character_page_jarl03.jpg'
   title: Pope Edouard de Beaumont

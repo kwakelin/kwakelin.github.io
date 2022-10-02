@@ -1,7 +1,6 @@
 ---
 title: "Writing"
 description: "Copy and Content"
-featured_image: '/images/Headers/forest_standing_stone05_PRINT copy.jpg'
 menu:
   main:
     weight: 2

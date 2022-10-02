@@ -1,7 +1,6 @@
 ---
 title: "About"
 description: "A quick run down of my qualifications"
-featured_image: '/images/Headers/forest_standing_stone05_PRINT copy.jpg'
 menu:
   main:
     weight: 3
