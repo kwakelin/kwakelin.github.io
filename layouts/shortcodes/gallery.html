@@ -1,0 +1,28 @@
+{{/*  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.1/css/lightbox.min.css" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.1/js/lightbox.min.js"></script>  */}}
+
+<link rel="stylesheet" href="/venobox/venobox.min.css" type="text/css" media="screen" />
+
+{{ $type := (.Get "type" | default "ink") }}
+{{ $pattern := printf "images/%s/*.jpg" $type }}
+
+{{ $images := (.Page.Resources.Match $pattern) }}
+{{ range $images }}
+  {{ $resized := .Fill "200x150 webp drawing" }}
+  {{/*  <a href="{{ .Permalink }}" data-lightbox="{{ $type }}" data-alt="{{ .Title }}" data-title="{{ .Params.Description }}">
+    <img src="data:{{ $resized.MediaType }};base64,{{ $resized.Content | base64Encode }}" />
+  </a>  */}}
+  <a class="venobox" href="{{ .Permalink }}" data-gall="{{ $type }}" title="{{ .Params.Description }}">
+    <img src="data:{{ $resized.MediaType }};base64,{{ $resized.Content | base64Encode }}" alt="{{ .Title }}"/>
+  </a>
+{{ end }}
+
+<script type="text/javascript" src="/venobox/venobox.min.js"></script>
+<script type="text/javascript">
+    new VenoBox({
+        titlePosition: 'bottom',
+        titleStyle: 'pill',
+        customClass: 'custom-gallery',
+    });
+</script>
