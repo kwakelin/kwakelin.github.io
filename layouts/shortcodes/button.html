@@ -1,4 +1,4 @@
 {{ $name := (.Get "name" | default "Hello!") }}
 {{ $link := (.Get "link" | default "#" )}}
 
-<a class="center link db f8 pa2 br3 bg-light-purple white dim w5 tc" href="{{ $link }}">{{ $name }}</a>
+<a style="color: white !important" class="center link db f8 pa2 br3 bg-light-purple white dim w5 tc" href="{{ $link }}">{{ $name }}</a>

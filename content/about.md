@@ -19,6 +19,6 @@ Once I left university I completed a Content and Marketing Internship for an onl
 
 I then spent a couple of years in academic publishing, which allowed me to dip my toes into copywriting for Archaeology, Museums and Heritage.
 
-**Think I might suit your project?** 
+{{< center text="Think I might suit your project?" >}}
 
 {{< button name="Get in touch!" link="../contact" >}}

@@ -7,7 +7,7 @@ menu:
   main:
     weight: 1
 resources: 
-- src: 'wulfwald_campaign_cover02.jpg'
+- src: 'images/ink/wulfwald_campaign_cover02.jpg'
   title: Wulfwald Campaign Cover
   params:
     description: Created for the Wulfwald TTRPG
