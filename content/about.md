@@ -21,4 +21,4 @@ I then spent a couple of years in academic publishing, which allowed me to dip m
 
 **Think I might suit your project?** 
 
-{{< button name="Get in touch!" link="./contact" >}}
+{{< button name="Get in touch!" link="../contact" >}}

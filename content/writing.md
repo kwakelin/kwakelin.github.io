@@ -28,3 +28,6 @@ That’s where I come in. I can help you express your ideas clearly and persuasi
 *Not your sector? I’m keen to gain experience in new areas, so get in touch if my writing might suit your needs!
 
 ## Samples
+
+![Bollington Walking Festival](./images/walking_festival.jpg)
+![Lakeland Four Passes](./images/four_passes.jpg)

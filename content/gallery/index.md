@@ -7,12 +7,14 @@ menu:
   main:
     weight: 1
 resources: 
-- src: 'images/ink/character_page_jarl03.jpg'
-  title: Pope Edouard de Beaumont
+- src: 'wulfwald_campaign_cover02.jpg'
+  title: Wulfwald Campaign Cover
   params:
-    description: This is the Pope!
+    description: Created for the Wulfwald TTRPG
 ---
 I'm an illustrator and designer, with a flair for fantastical and historical subjects and a penchant for playing with style. In 2018 I completed my master’s in Animation, with a focus on visual development and background painting. I’ve been a freelance artist since 2019, creating work for board games, TTRPGs, packaging for wines and spirits, and more.
+
+[Drop me an email](../contact.md) if my work might suit your project!
 
 ## Ink
 
@@ -24,10 +26,12 @@ I'm an illustrator and designer, with a flair for fantastical and historical sub
 
 **A few of my delightful clients:**
 
-Ace Gamebooks - Chaosium - Lost Pages - Mottokrosh Machinations - Spilbraet - Tom Mecredy - Web & Wolf
+Ace Gamebooks - Chaosium - Lost Pages - Mottokrosh Machinations - Spilbræt.dk - Tom Mecredy - Web & Wolf
 
 **Some of the projects I’ve been involved with:**
 
-Book of Cloaks - Girl and Dragon - Knives at the Feast - Varulv - Wulfwald
+[Capes and Cloaks](https://mottokrosh.com/machinations/capes-and-cloaks/) || [Girl and Dragon](https://www.girlanddragon.com/#story) ([Instagram](https://www.instagram.com/girlanddragon/)) || [Knives at the Feast](https://northernstranger.itch.io/knives-at-the-feast) || [Varulv](https://www.spilbræt.dk/spil/varulv/) || [Wulfwald](https://shop.lostpages.co.uk/products/wulfwald-boxed-set)
 
-**Ready to add your project to this list?** [Get in touch!](../contact)
+**Ready to add your project to this list?** 
+
+[Get in touch!](../contact)
