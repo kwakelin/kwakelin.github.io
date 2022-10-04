@@ -13,9 +13,13 @@ resources:
   params:
     description: Created for the Wulfwald TTRPG
 ---
-I'm an illustrator and designer, with a flair for fantastical and historical subjects and a penchant for playing with style. In 2018 I completed my master’s in Animation, with a focus on visual development and background painting. I’ve been a freelance artist since 2019, creating work for board games, TTRPGs, packaging for wines and spirits, and more.
+I'm an illustrator and designer with a flair for fantasy and history. I love playing with style, and am always happy to adapt to the project at hand.
 
-**Think my work might suit your project?** [Drop me an email!](../contact.md)
+Whether you're after a cover for your book, card art for your board game, or a painting of your DnD party looking badass, I can help!
+
+I have a master’s in Animation, with a focus on visual development and background painting. I’ve been a freelance artist since 2019, creating work for card games, TTRPGs, packaging for wines and spirits, and more. 
+
+**I want to hear about your project!** [Drop me an email](../contact.md)
 
 ## Ink
 
