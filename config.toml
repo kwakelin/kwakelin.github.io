@@ -17,7 +17,7 @@ enableRobotsTXT = true
 [params]
   text_color = ""
   author = "Katie Wakelin"
-  favicon = "images/icon_large01.jpg"
+  favicon = "images/icon01.png"
   # site_logo = "images/Victor_Hugo-Hunchback.jpg"
   description = "Illustation and Copywriting portfolio website"
   # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"

@@ -2,6 +2,7 @@
 title: "Ballerina Bambinos: New Online Class for Toddlers"
 date: 2022-08-29T14:00:16+01:00
 draft: false
+featured_image: "../images/email_sample.jpg"
 ---
 MAILING LIST EMAIL - SPECULATIVE SAMPLE
 

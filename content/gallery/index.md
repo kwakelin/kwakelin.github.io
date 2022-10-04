@@ -2,6 +2,7 @@
 title: "Art"
 description: "Illustration and Design"
 date: 2017-03-02T12:00:00-05:00
+featured_image: "../images/queen_of_crows14.jpg"
 type: page
 menu:
   main:
@@ -14,7 +15,7 @@ resources:
 ---
 I'm an illustrator and designer, with a flair for fantastical and historical subjects and a penchant for playing with style. In 2018 I completed my master’s in Animation, with a focus on visual development and background painting. I’ve been a freelance artist since 2019, creating work for board games, TTRPGs, packaging for wines and spirits, and more.
 
-[Drop me an email](../contact.md) if my work might suit your project!
+**Think my work might suit your project?** [Drop me an email!](../contact.md)
 
 ## Ink
 
@@ -32,6 +33,6 @@ Ace Gamebooks - Chaosium - Lost Pages - Mottokrosh Machinations - Spilbræt.dk -
 
 [Capes and Cloaks](https://mottokrosh.com/machinations/capes-and-cloaks/) || [Girl and Dragon](https://www.girlanddragon.com/#story) ([Instagram](https://www.instagram.com/girlanddragon/)) || [Knives at the Feast](https://northernstranger.itch.io/knives-at-the-feast) || [Varulv](https://www.spilbræt.dk/spil/varulv/) || [Wulfwald](https://shop.lostpages.co.uk/products/wulfwald-boxed-set)
 
-**Ready to add your project to this list?** 
+{{< center text="Want me to draw something for you?" >}}
 
-[Get in touch!](../contact)
+{{< button name="Get in touch!" link="../contact" >}}

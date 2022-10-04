@@ -6,3 +6,5 @@ menu:
   main:
     weight: 4
 ---
+
+Blog coming soon!

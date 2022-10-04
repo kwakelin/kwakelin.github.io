@@ -1,6 +1,7 @@
 ---
 title: "Writing"
 description: "Copy and Content"
+featured_image: "../images/fields.jpg"
 menu:
   main:
     weight: 2
@@ -15,7 +16,7 @@ Perhaps you have a vision, but your customers aren’t getting it. You know your
 
 Or maybe you have an event coming up, but people aren’t taking notice. You need a way to communicate all the details, while getting them excited for it.
 
-That’s where I come in. I can help you express your ideas clearly and persuasively to get people to take action.
+**That’s where I come in.** I can help you express your ideas clearly and persuasively to get your readers to take action.
 
 - Blog posts
 - Articles and features
@@ -30,3 +31,7 @@ That’s where I come in. I can help you express your ideas clearly and persuasi
 ## Samples
 
 {{< sample_link >}}
+
+{{< center text="Want me to write something for you?" >}}
+
+{{< button name="Get in touch!" link="../contact" >}}
