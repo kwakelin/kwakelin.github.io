@@ -1,17 +1,92 @@
-<div style="width: 200%; margin-left: -50%;">
+<style>
+    .container {
+      position: relative;
+      text-align: center;
+      color: white;
+    }
+    
+    .container a {
+        color: white;
+        text-decoration: none;
+        font-size: 1.5em;
+    }
 
-<a href="./gallery" style="position: relative; text-decoration: none;">
-    <img src="./images/front_page_images01.jpg" style="max-width: 300px;">
-    <span style="position: absolute; left: 75px; top: -160px; color: white; font-size: 1.5em;">
+    .container img {
+      margin-top: 8px;
+      vertical-align: middle;
+      width: 100%;
+    }
+    
+    .container span {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+    }
+    
+    * {
+      box-sizing: border-box;
+    }
+    
+    body {
+      margin: 0;
+      font-family: Arial;
+    }
+    
+    .header {
+      text-align: center;
+      padding: 32px;
+    }
+    
+    .row {
+      display: -ms-flexbox; /* IE10 */
+      display: flex;
+      -ms-flex-wrap: wrap; /* IE10 */
+      flex-wrap: wrap;
+      padding: 0 4px;
+    }
+    
+    .column {
+      -ms-flex: 50%; /* IE10 */
+      flex: 50%;
+      max-width: 50%;
+      padding: 0 4px;
+    }
+    
+    .column img {
+      margin-top: 8px;
+      vertical-align: middle;
+      width: 100%;
+    }
+    
+    /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+    @media screen and (max-width: 600px) {
+      .column {
+        -ms-flex: 100%;
+        flex: 100%;
+        max-width: 100%;
+      }
+    }
+    </style>
+
+<div class="row">
+
+<div class="column container">
+<a href="./gallery">
+    <img src="./images/front_page_images01.jpg">
+    <span>
         Illustration
     </span>
 </a>
+</div>
 
-<a href="./writing" style="position: relative; text-decoration: none;">
-    <img src="./images/front_page_images02.jpg" style="max-width: 300px;">
-    <span style="position: absolute; left: 70px; top: -160px; color: white; font-size: 1.5em;">
+<div class="column container">
+<a href="./writing">
+    <img src="./images/front_page_images02.jpg">
+    <span>
         Copywriting
     </span>
 </a>
+</div>
 
 </div>
