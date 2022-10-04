@@ -1,7 +1,7 @@
 ---
 title: "Writing"
 description: "Copy and Content"
-featured_image: "../images/fields.jpg"
+featured_image: "../images/Headers/fields_header.jpg"
 menu:
   main:
     weight: 2

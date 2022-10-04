@@ -2,7 +2,7 @@
 title: "Art"
 description: "Illustration and Design"
 date: 2017-03-02T12:00:00-05:00
-featured_image: "../images/queen_of_crows14.jpg"
+featured_image: "../images/Headers/queen_of_crows14.jpg"
 type: page
 menu:
   main:
