@@ -19,7 +19,7 @@ enableRobotsTXT = true
   author = "Katie Wakelin"
   favicon = "images/icon01.png"
   # site_logo = "images/Victor_Hugo-Hunchback.jpg"
-  description = "Illustation and Copywriting portfolio website"
+  description = "Illustration and Copywriting"
   # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-black"
   recent_posts_number = 3
