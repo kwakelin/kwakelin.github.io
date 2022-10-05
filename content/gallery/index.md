@@ -19,7 +19,7 @@ Whether you're after a cover for your book, card art for your board game, or a p
 
 I have a master’s in Animation, with a focus on visual development and background painting. I’ve been a freelance artist since 2019, creating work for card games, TTRPGs, packaging for wines and spirits, and more. 
 
-**I want to hear about your project!** [Drop me an email](../contact.md)
+**I want to hear about your project!** [Drop me an email](../contact)
 
 ## Ink
 
